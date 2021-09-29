@@ -25,10 +25,7 @@ class Login {
         JTextField tfUser;
         JPasswordField tfpsw;
         JButton btnLogin,btnSignUp;
-        
-        limage = new JLabel(new ImageIcon("library.png"));
-        f.add(limage);
-        limage.setBounds(500,100,400,500);
+
         
         
         //user label
